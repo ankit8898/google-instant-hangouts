@@ -2,6 +2,8 @@
 
 A Ruby wrapper to integrate Google's [Instant Hangout](https://github.com/google/instant-hangouts) - Instant Hangouts lets you easily add Google+ Hangouts to any web page:
 
+A [Sample Application with usage can be found here](https://github.com/ankit8898/google-instant-hangouts-sample) .
+
 ## Installation
 
 Add the gem to the Gemfile:
