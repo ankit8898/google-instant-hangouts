@@ -33,15 +33,6 @@ In your `*.html.erb` or `*.html.haml` you can use this helper
     
 ### Options :
 
-#### Render
-> Specifies how to render the Hangout button. Currently this parameter must have the value ‘createhangout’. 
-
-   Add `render: 'createhangout'` as a option to the helper method
-   	
-   	<%= instant_hangout render: 'createhangout' %>
-
-
-
 #### Topic 
 > Pre-populates the topic field for Hangouts on Air. Note that users can change the topic of the Hangout after they have joined.
 
