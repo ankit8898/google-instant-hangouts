@@ -5,9 +5,9 @@ require "google-instant-hangouts/version"
 Gem::Specification.new do |s|
   s.name        = "google-instant-hangouts"
   s.version     = GoogleInstantHangouts::VERSION
-  s.authors     = ["Ankit Gupta"]
+  s.authors     = ["Ankit Gupta","Ashish Upadhyay"]
   s.date        = '2014-01-27'
-  s.email       = ["ankit.gupta8898@gmail.com"]
+  s.email       = ["ankit.gupta8898@gmail.com","ashish.upadhyaye@gmail.com"]
   s.summary     = %q{Gem to Easily add Google+ Hangouts to any web page and Rails asset pipeline}
   s.description = %q{Gem to Easily add Google+ Hangouts to any web page and Rails asset pipeline}
 
