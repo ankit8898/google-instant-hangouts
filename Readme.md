@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/google-instant-hangouts.png)](http://badge.fury.io/rb/google-instant-hangouts)
+
 # Google Instant Hangout
 
 A Ruby wrapper to integrate Google's [Instant Hangout](https://github.com/google/instant-hangouts) - Instant Hangouts lets you easily add Google+ Hangouts to any web page:
