@@ -19,6 +19,14 @@ In your JavaScript manifest (e.g. `application.js`):
 
 In your `*.html.erb` or `*.html.haml` you can use this helper
 
-    instant_hangout
+    <%= instant_hangout %>
+    
+### Options :
+
+1) Hangouts-on-Air (HOA) 
+
+   Add `hangout_type: 'onair'` as a option to the helper method
+   	
+   	<%= instant_hangout hangout_type: 'onair' %>
     
 **Note:** Work In Progress
