@@ -2,7 +2,7 @@ module GoogleInstantHangouts
 	module Helper
 		
 		def instant_hangout(opts={})
-			defaults = {render: 'createhangout',lang: 'en',room_id: 'my_room',topic: 'my topic',widget_size: 136,width: 300, hangout_type: nil}
+			defaults = {render: 'createhangout',lang: 'en',room_id: 'my_room',topic: 'my topic',widget_size: 136,width: 300, hangout_type: :normal}
 			defaults.merge!(opts)
 			content_tag(:div,nil,
 				         class: "instanthangouts",
